@@ -5,6 +5,6 @@ Script utili per gestire facilmente i dati sul portale demografico dell'ISTAT: h
 
 Ordine di esecuzione: download-population-data.sh -> unzip-all-files.sh -> clean-and-concatenate.sh -> extract-comuni-names.sh -> filter-total-population.sh -> delete-total-population.sh
 
-File finali: comuni.csv, comuni-eta.csv, comuni-tot.csv
+File finali: comuni.csv, comuni-eta.csv, comuni-tot.csv, tutti-i-comuni.csv
 
 ATTENZIONE: i file finali non hanno la riga di intestazione.
